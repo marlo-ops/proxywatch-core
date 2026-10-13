@@ -1,0 +1,10 @@
+{
+  "name": "proxywatch-core",
+  "version": "0.1.0",
+  "description": "Read-only classification of a contract's EIP-1967 upgrade surface.",
+  "type": "module",
+  "bin": { "proxywatch-core": "bin/proxywatch-core.mjs" },
+  "engines": { "node": ">=20" },
+  "license": "MIT",
+  "private": false
+}
